@@ -1,7 +1,7 @@
 # Distance and Similarity Matrix Calculation Script
 
 ## Overview
-This script calculates `distance and similarity matrices` for users based on their demographic and interest data extracted from multiple sheets in an Excel file. 
+This script calculates `distance and similarity matrices` for users based on their `demographic and interest data` extracted from multiple sheets in an Excel file. 
 The purpose is to analyze the *relationships* between different user profiles using various information like sex, age, city, and interests.
 
 ## Key Features
